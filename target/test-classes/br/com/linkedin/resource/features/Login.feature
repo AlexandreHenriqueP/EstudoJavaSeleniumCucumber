@@ -27,7 +27,7 @@ Funcionalidade: Login de Usuário
 
     Exemplos:
       | Email                       | Senha         |
-      | ale.contato.tech@gmail.com  | Al1011985632! |
+      | emailcorreto@correto.com  | senhacorreta |
       # Você pode adicionar mais linhas aqui para testar outros usuários válidos, se necessário.
 
   # Cenário 2: Testa o fluxo de login com senha incorreta.
